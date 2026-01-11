@@ -8,5 +8,4 @@ The project follows a complete machine learning pipeline, including data preproc
 
 The dataset is cleaned and preprocessed by handling missing values, encoding categorical variables, and preparing features for model training. Exploratory analysis is performed to understand customer behavior and identify key factors influencing churn. The Random Forest classifier is then trained and evaluated using standard classification metrics.
 
-## Project Structure
 
